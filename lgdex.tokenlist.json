@@ -1,6 +1,6 @@
 {
     "name": "LGDEX",
-    "logoURI": "https://liange666.github.io/tokenlist/lgdex-logo.svg",
+    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
     "keywords": [
       "LGdex",
       "defi"
@@ -13,7 +13,7 @@
         "name": "lg-qkl.xyz",
         "symbol": "LG",
         "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/lg-logo.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/lg-logo.svg"
       },
       {
         "chainId": 1,
