@@ -1,32 +1,25 @@
 {
-    "name": "LGDEX",
-    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
-    "keywords": [
-      "LGdex",
-      "defi"
-    ],
-    "timestamp": "2021-07-11T20:37:00.000+00:00",
-    "tokens": [
-      {
-        "chainId": 128,
-        "address": "0x7cc0c1a34b1ae55f9bd2a19ece9d4b166b66e70c",
-        "name": "lg-qkl.xyz",
-        "symbol": "LG",
-        "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/logo/lg-logo.svg"
-      },
-      {
-        "chainId": 1,
-        "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
-        "name": "USD Coin USDC",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-      }
-    ],
-    "version": {
-      "major": 2,
-      "minor": 0,
+  "name": "LGDEX",
+  "version": {
+      "major": 0,
+      "minor": 2,
       "patch": 0
-    }
-  }
+  },
+  "keywords": [
+      "gemini",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
+  "timestamp": "2021-07-12T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "LG",
+          "chainId": 128,
+          "symbol": "LG",
+          "decimals": 18,
+          "address": "0x7cc0c1a34b1ae55f9bd2a19ece9d4b166b66e70c",
+          "logoURI": "https://liange666.github.io/tokenlist/logo/lg-logo.svg"
+      }
+  ]
+}
