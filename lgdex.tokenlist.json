@@ -20,6 +20,46 @@
           "decimals": 18,
           "address": "0x7cc0c1a34b1ae55f9bd2a19ece9d4b166b66e70c",
           "logoURI": "https://liange666.github.io/tokenlist/logo/lg-logo.svg"
-      }
+      },
+      {
+        "name": "YHT",
+        "chainId": 128,
+        "symbol": "YHT",
+        "decimals": 18,
+        "address": "0x158c9af12137cF8dfd86b3bD191DbAB79D41C856",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/YHT.svg"
+    },
+    {
+        "name": "DKJ",
+        "chainId": 128,
+        "symbol": "DKJ",
+        "decimals": 18,
+        "address": "0x98812B562a8684910575c22c40364ecb7bDb5bfB",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DKJ.svg"
+    },
+    {
+        "name": "DB",
+        "chainId": 128,
+        "symbol": "DB",
+        "decimals": 18,
+        "address": "0xF4Ba6c6E40Ad12E2112E4Cf77f87DE9Bc101b59e",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DB.svg"
+    },
+    {
+        "name": "HBTC",
+        "chainId": 128,
+        "symbol": "HBTC",
+        "decimals": 18,
+        "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/HBTC.svg"
+    },
+    {
+        "name": "USDT",
+        "chainId": 128,
+        "symbol": "USDT",
+        "decimals": 18,
+        "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
+    }
   ]
 }
