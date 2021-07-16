@@ -46,6 +46,14 @@
         "logoURI": "https://liange666.github.io/tokenlist/logo/DB.svg"
     },
     {
+        "name": "CRB",
+        "chainId": 128,
+        "symbol": "CRB",
+        "decimals": 18,
+        "address": "0x66B308F739b4553B35dD220390f451bB646F952D",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/CRB.svg"
+    },
+    {
         "name": "HBTC",
         "chainId": 128,
         "symbol": "HBTC",
