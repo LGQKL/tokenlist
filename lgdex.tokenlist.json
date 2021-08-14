@@ -68,6 +68,14 @@
         "decimals": 18,
         "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
         "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
+    },
+    {
+        "name": "LP",
+        "chainId": 128,
+        "symbol": "LP",
+        "decimals": 18,
+        "address": "0x376ce5d7517020cc713bf2de5f4820acb4f2b438",
+        "logoURI": "https://liange666.github.io/tokenlist/logo/LP.svg"
     }
   ]
 }
