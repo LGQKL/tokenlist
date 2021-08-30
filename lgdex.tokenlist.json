@@ -1,9 +1,10 @@
 {
-    "name": "LG",
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQaHtSAXkbCoRFHDMe8yknZXXcZuX9boUnT6z6ND3cRGZ",
+    "name": "LGEX",
+    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
     "keywords": [
       "lgqklxyz",
-      "lgex"
+      "lg_ex",
+      "trusted"
     ],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
@@ -13,7 +14,7 @@
         "name": "LG",
         "symbol": "LG",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/lg-logo.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/lg-logo.svg"
       },
       {
         "chainId": 128,
@@ -21,7 +22,7 @@
         "name": "YHT",
         "symbol": "YHT",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/YHT.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/YHT.svg"
       },
       {
         "chainId": 128,
@@ -29,7 +30,7 @@
         "name": "DKJ",
         "symbol": "DKJ",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/DKJ.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DKJ.svg"
       },
       {
         "chainId": 128,
@@ -37,7 +38,7 @@
         "name": "DB",
         "symbol": "DB",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/DB.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DB.svg"
       },
       {
         "chainId": 128,
@@ -45,7 +46,7 @@
         "name": "CRB",
         "symbol": "CRB",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/CRB.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/CRB.svg"
       },
       {
         "chainId": 128,
@@ -53,7 +54,7 @@
         "name": "HBTC",
         "symbol": "HBTC",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/HBTC.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/HBTC.svg"
       },
       {
         "chainId": 128,
@@ -61,7 +62,7 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/USDT.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
       },
       {
         "chainId": 128,
@@ -69,7 +70,7 @@
         "name": "LP",
         "symbol": "LP",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/LP.svg"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/LP.svg"
       },
       {
         "chainId": 128,
@@ -77,12 +78,12 @@
         "name": "WKT",
         "symbol": "WKT",
         "decimals": 18,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeif5ziqsknpae4mxsxc6t7fbob23nsynpdjv5c5y2q7pyojauotsru"
+        "logoURI": "https://liange666.github.io/tokenlist/logo/WKT.svg"
       }
     ],
     "version": {
       "major": 2,
       "minor": 1,
-      "patch": 1
+      "patch": 2
     }
   }
