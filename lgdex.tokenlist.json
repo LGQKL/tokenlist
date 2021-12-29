@@ -18,6 +18,14 @@
       },
       {
         "chainId": 128,
+        "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/ETH.svg"
+      },
+      {
+        "chainId": 128,
         "address": "0x158c9af12137cF8dfd86b3bD191DbAB79D41C856",
         "name": "YHT",
         "symbol": "YHT",
