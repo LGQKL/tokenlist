@@ -20,6 +20,13 @@
           "symbol": "LG2",
           "decimals": 18,
           "logoURI": "https://lgqkl.github.io/tokenlist/logo/LG.svg"
+        },
+        {
+          "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+          "name": "BTC",
+          "symbol": "BTC",
+          "decimals": 18,
+          "logoURI": "https://lgqkl.github.io/tokenlist/logo/BTC.svg"
         }
       ]
     }
