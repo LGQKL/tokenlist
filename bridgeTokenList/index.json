@@ -15,5 +15,10 @@
       "symbol": "DKJ",
       "logoURI": "https://tokenlist-1301622387.cos-website.ap-guangzhou.myqcloud.com/bridgeTokenList/logo/DKJ.svg"
     }
-  ]
+  ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
